@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinesLogic", "BusinesLogic", "{D11B30BD-50D2-4A17-8A3E-0292264F50C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAcces", "DataAcces", "{D36C80EC-04AF-4DB5-89E3-631E3F376B29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{6FFF6FF3-B289-4086-9744-0ED39E5D42E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{3648F7BE-BE59-4097-BE5F-1C492E809A94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{4F5E62C4-6A2E-4763-AF06-A6D06D78DF04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunerariaSanRafael.UI", "FunerariaSanRafael.UI\FunerariaSanRafael.UI.csproj", "{B604F61E-51E6-43DD-9A94-84D93A18A327}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunerariaSanRafael.BusinessLogic", "FunerariaSanRafael.BusinessLogic\FunerariaSanRafael.BusinessLogic.csproj", "{97AEC6F0-65BC-4139-B3F0-1386C6B906E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunerariaSanRafael.DataAccess", "FunerariaSanRafael.DataAccess\FunerariaSanRafael.DataAccess.csproj", "{CBC3B544-CF9F-4321-9AD0-C31A6B78C445}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunerariaSanRafael.Interfaces", "FunerariaSanRafael.Interfaces\FunerariaSanRafael.Interfaces.csproj", "{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunerariaSanRafael.Models", "FunerariaSanRafael.Models\FunerariaSanRafael.Models.csproj", "{083E9FFF-9312-47DE-BA9C-96F7C4C44799}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{2720F4D5-8FF2-4221-9FD6-0E56E1F8AFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B604F61E-51E6-43DD-9A94-84D93A18A327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B604F61E-51E6-43DD-9A94-84D93A18A327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B604F61E-51E6-43DD-9A94-84D93A18A327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B604F61E-51E6-43DD-9A94-84D93A18A327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AEC6F0-65BC-4139-B3F0-1386C6B906E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AEC6F0-65BC-4139-B3F0-1386C6B906E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AEC6F0-65BC-4139-B3F0-1386C6B906E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AEC6F0-65BC-4139-B3F0-1386C6B906E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC3B544-CF9F-4321-9AD0-C31A6B78C445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC3B544-CF9F-4321-9AD0-C31A6B78C445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC3B544-CF9F-4321-9AD0-C31A6B78C445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC3B544-CF9F-4321-9AD0-C31A6B78C445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083E9FFF-9312-47DE-BA9C-96F7C4C44799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083E9FFF-9312-47DE-BA9C-96F7C4C44799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083E9FFF-9312-47DE-BA9C-96F7C4C44799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083E9FFF-9312-47DE-BA9C-96F7C4C44799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2720F4D5-8FF2-4221-9FD6-0E56E1F8AFE2}.Debug|Any CPU.ActiveCfg = Debug
+		{2720F4D5-8FF2-4221-9FD6-0E56E1F8AFE2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B604F61E-51E6-43DD-9A94-84D93A18A327} = {4F5E62C4-6A2E-4763-AF06-A6D06D78DF04}
+		{97AEC6F0-65BC-4139-B3F0-1386C6B906E1} = {D11B30BD-50D2-4A17-8A3E-0292264F50C8}
+		{CBC3B544-CF9F-4321-9AD0-C31A6B78C445} = {D36C80EC-04AF-4DB5-89E3-631E3F376B29}
+		{7418461B-F0CA-4E9D-819F-CAE4CC0CD4B8} = {6FFF6FF3-B289-4086-9744-0ED39E5D42E6}
+		{083E9FFF-9312-47DE-BA9C-96F7C4C44799} = {3648F7BE-BE59-4097-BE5F-1C492E809A94}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517C63EB-992B-4E97-980F-33A3073FE96F}
+	EndGlobalSection
+EndGlobal

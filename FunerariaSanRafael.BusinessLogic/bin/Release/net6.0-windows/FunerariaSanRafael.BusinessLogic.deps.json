@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FunerariaSanRafael.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "iTextSharp-LGPL": "4.1.6"
+        },
+        "runtime": {
+          "FunerariaSanRafael.BusinessLogic.dll": {}
+        }
+      },
+      "iTextSharp-LGPL/4.1.6": {
+        "runtime": {
+          "lib/iTextSharp.dll": {
+            "assemblyVersion": "4.1.6.0",
+            "fileVersion": "4.1.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunerariaSanRafael.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iTextSharp-LGPL/4.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-35STyoGKJOX1oTUWHOzn8/I1NXQMbkxKZfBsYwj8ZjOICVEZIi88wfOekQbYeU6MK0VOoZrMMO1e7KQVjJSIxQ==",
+      "path": "itextsharp-lgpl/4.1.6",
+      "hashPath": "itextsharp-lgpl.4.1.6.nupkg.sha512"
+    }
+  }
+}

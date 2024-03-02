@@ -1,0 +1,48 @@
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.deps.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.Interfaces.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.deps.json
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.AssemblyReference.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfoInputs.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfo.cs
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.Interfaces.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.deps.json
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.Interfaces.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.Interfaces.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.deps.json
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\bin\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.AssemblyInfo.cs
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.Interfaces.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\FunerariaSanRafael.Interfaces.pdb
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.Interfaces\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.Interfaces.dll

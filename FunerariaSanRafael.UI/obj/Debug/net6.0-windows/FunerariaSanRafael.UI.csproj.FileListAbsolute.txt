@@ -1,0 +1,517 @@
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsReportes.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafael\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsReportes.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsReportes.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\nelson.campos\Desktop\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsReportes.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\sussy\OneDrive\Desktop\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Login.resources
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.ResolveComReference.cache
+C:\Users\sussy\OneDrive\DOCUMENTOS\Programacion\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.ResolveComReference.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Login.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\Susana\Downloads\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.exe
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.deps.json
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.runtimeconfig.json
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.Models.pdb
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.AssemblyReference.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.ResolveComReference.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsAfiliados.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsLiquidacion.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRecibos.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.CtrlUsRutas.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.frmMenu.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Login.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.Properties.Resources.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroAfiliados.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.GenerateResource.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfoInputs.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.AssemblyInfo.cs
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CoreCompileInputs.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.csproj.CopyComplete
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\refint\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.pdb
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.genruntimeconfig.cache
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\ref\FunerariaSanRafael.UI.dll
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroRutas.resources
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\bin\Debug\net6.0-windows\FunerariaSanRafael.UI.dll.config
+C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\obj\Debug\net6.0-windows\FunerariaSanRafael.UI.RegistroServicios.resources

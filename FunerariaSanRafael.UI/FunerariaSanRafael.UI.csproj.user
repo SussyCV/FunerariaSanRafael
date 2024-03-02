@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Susana\Documents\BSmart Tech\Funeraria San Rafael\FunerariaSanRafaelCORE\FunerariaSanRafaelCORE\FunerariaSanRafael.UI\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CtrlUsAfiliados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CtrlUsRecibos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CtrlUsLiquidacion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CtrlUsRutas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroAfiliados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroRutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
